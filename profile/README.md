@@ -1,12 +1,19 @@
-## Hi there 👋
+# Welcome to B2OnlineTech 🚀
 
-<!--
+B2OnlineTech is a software solutions company focused on building web, mobile, and business automation platforms.
 
-**Here are some ideas to get you started:**
+## Our Products
+- City360
+- Galaxy Stores
+- Custom Admin Panels
+- eCommerce Solutions
+- Retail & POS Systems
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Services
+- Android App Development
+- Web Development
+- API Development
+- UI/UX Design
+- Business Automation
+
+🌐 Website: https://b2online.co.in
